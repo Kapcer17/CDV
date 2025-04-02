@@ -26,9 +26,13 @@ What I've learned in college so far (WIP)
 # Object oriented programming
   Few simple console programs tackling some typical excersises (matrix, FIFO types, Validation for passwords)
 
+# Data structures with Python
+  Analyzing data and the structure of files with Data using Python and its libraries: <br/>
+  Pandas, NumPy
+
 # To be added:
   upload of the files in Object oriented programming (missing exercises) <br/>
-  other projects made with Python and libraries <br/>
+  better descriptions in ReadMe
   software engineering module (diagrams) <br/>
   lowpoly projects <br/>
   database systems <br/>

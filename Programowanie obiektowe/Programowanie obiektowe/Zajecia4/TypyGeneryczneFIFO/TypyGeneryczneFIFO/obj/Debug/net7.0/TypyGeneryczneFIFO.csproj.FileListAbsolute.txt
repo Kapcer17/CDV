@@ -1,0 +1,14 @@
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\bin\Debug\net7.0\TypyGeneryczneFIFO.exe
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\bin\Debug\net7.0\TypyGeneryczneFIFO.deps.json
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\bin\Debug\net7.0\TypyGeneryczneFIFO.runtimeconfig.json
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\bin\Debug\net7.0\TypyGeneryczneFIFO.dll
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\bin\Debug\net7.0\TypyGeneryczneFIFO.pdb
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.AssemblyInfoInputs.cache
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.AssemblyInfo.cs
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.csproj.CoreCompileInputs.cache
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.dll
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\refint\TypyGeneryczneFIFO.dll
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.pdb
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\TypyGeneryczneFIFO.genruntimeconfig.cache
+C:\Users\kstach16\source\repos\TypyGeneryczneFIFO\TypyGeneryczneFIFO\obj\Debug\net7.0\ref\TypyGeneryczneFIFO.dll

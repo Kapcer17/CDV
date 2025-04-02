@@ -1,0 +1,14 @@
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.AssemblyInfoInputs.cache
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.AssemblyInfo.cs
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.csproj.CoreCompileInputs.cache
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\bin\Debug\net6.0\TypyGeneryczne.exe
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\bin\Debug\net6.0\TypyGeneryczne.deps.json
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\bin\Debug\net6.0\TypyGeneryczne.runtimeconfig.json
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\bin\Debug\net6.0\TypyGeneryczne.dll
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\bin\Debug\net6.0\TypyGeneryczne.pdb
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.dll
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\refint\TypyGeneryczne.dll
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.pdb
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\TypyGeneryczne.genruntimeconfig.cache
+C:\Users\kstach16\source\repos\TypyGeneryczne\TypyGeneryczne\obj\Debug\net6.0\ref\TypyGeneryczne.dll

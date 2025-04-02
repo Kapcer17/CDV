@@ -1,6 +1,6 @@
-###CDV
+### CDV
 What I've learned in college so far (WIP)
-##Projects I took part in but are not in this repository
+## Projects I took part in but are not in this repository
   https://github.com/squally13/cat_dog_classification_model
     Project fully explained in readme of the page.
     
@@ -8,10 +8,10 @@ What I've learned in college so far (WIP)
     A simple video game made in Unity to grasp the ideas of GameDev
   
 
-#Basics of programming in C++
+# Basics of programming in C++
   Few simple programs used to solve mathematical and basic programming problems (Factorial, greatest common divisor, lenght of a string, etc.)
 
-#GameDev Documentation Basics
+# GameDev Documentation Basics
 **Game Design Macro**
 | Game Title | Time of day/Weather/Mood | Brief description | Player Mechanics | Player Goal | Design Goal | Emotional Beat | Characters encountered | Objects encountered | Other assets needed | Audio notes |
 |------------|--------------------------|-------------------|------------------|-------------|-------------|----------------|----------------------|------------------|------------------|-------------|

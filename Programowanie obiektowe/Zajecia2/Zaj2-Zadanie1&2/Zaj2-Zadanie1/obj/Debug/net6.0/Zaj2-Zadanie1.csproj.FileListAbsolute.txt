@@ -1,0 +1,28 @@
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.exe
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.deps.json
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.runtimeconfig.json
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.dll
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.pdb
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.AssemblyInfoInputs.cache
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.AssemblyInfo.cs
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.dll
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\refint\Zaj2-Zadanie1.dll
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.pdb
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.genruntimeconfig.cache
+C:\Users\kstach16\source\repos\Zaj2-Zadanie1\Zaj2-Zadanie1\obj\Debug\net6.0\ref\Zaj2-Zadanie1.dll
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.exe
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.deps.json
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.runtimeconfig.json
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.dll
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\bin\Debug\net6.0\Zaj2-Zadanie1.pdb
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.AssemblyInfoInputs.cache
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.AssemblyInfo.cs
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.csproj.CoreCompileInputs.cache
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.dll
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\refint\Zaj2-Zadanie1.dll
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.pdb
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\Zaj2-Zadanie1.genruntimeconfig.cache
+D:\Studia\2rok\Programowanie obiektowe\Zaj2-Zadanie1&2\Zaj2-Zadanie1\obj\Debug\net6.0\ref\Zaj2-Zadanie1.dll

@@ -20,7 +20,7 @@ What I've learned in college so far (WIP)
 
 (Table converted from Excel into Markdown for github)
 
-**One Page Design Document**
+**One Page Design Document** <br/>
   (see file OPDD in GameDev Folder)
 
 # Object oriented programming

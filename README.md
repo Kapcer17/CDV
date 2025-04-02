@@ -1,10 +1,10 @@
 ### CDV
 What I've learned in college so far (WIP)
 ## Projects I took part in but are not in this repository
-  https://github.com/squally13/cat_dog_classification_model
+  https://github.com/squally13/cat_dog_classification_model <br/>
     Project fully explained in readme of the page.
     
-  https://github.com/squally13/Gejm
+  https://github.com/squally13/Gejm <br/>
     A simple video game made in Unity to grasp the ideas of GameDev and working in Unity with C# and Github
   
 
@@ -24,11 +24,11 @@ What I've learned in college so far (WIP)
   (see file OPDD in GameDev Folder)
 
 # Object oriented programming
-  
+  Few simple console programs tackling some typical excersises (matrix, FIFO types, Validation for passwords)
 
 # To be added:
-  other projects made with Python and libraries
-  software engineering module (diagrams)
-  lowpoly projects
-  database systems
-  (...)
+  other projects made with Python and libraries <br/>
+  software engineering module (diagrams) <br/>
+  lowpoly projects <br/>
+  database systems <br/>
+  (...) <br/>

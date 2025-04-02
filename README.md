@@ -27,6 +27,7 @@ What I've learned in college so far (WIP)
   Few simple console programs tackling some typical excersises (matrix, FIFO types, Validation for passwords)
 
 # To be added:
+  upload of the files in Object oriented programming (missing exercises) <br/>
   other projects made with Python and libraries <br/>
   software engineering module (diagrams) <br/>
   lowpoly projects <br/>

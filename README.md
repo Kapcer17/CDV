@@ -5,7 +5,7 @@ What I've learned in college so far (WIP)
     Project fully explained in readme of the page.
     
   https://github.com/squally13/Gejm
-    A simple video game made in Unity to grasp the ideas of GameDev
+    A simple video game made in Unity to grasp the ideas of GameDev and working in Unity with C# and Github
   
 
 # Basics of programming in C++
@@ -22,3 +22,13 @@ What I've learned in college so far (WIP)
 
 **One Page Design Document**
   (see file OPDD in GameDev Folder)
+
+# Object oriented programming
+  
+
+# To be added:
+  other projects made with Python and libraries
+  software engineering module (diagrams)
+  lowpoly projects
+  database systems
+  (...)
